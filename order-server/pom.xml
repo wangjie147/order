@@ -50,8 +50,7 @@
 
        <dependency>
             <groupId>com.facetofront</groupId>
-            <artifactId>product-client</artifactId>
-            <version></version>
+            <artifactId>project-client</artifactId>
         </dependency>
 
         <dependency>

@@ -1,6 +1,6 @@
 package com.facetofront.order.repository;
 
-import com.imooc.order.dataobject.OrderDetail;
+import com.facetofront.order.dataobject.OrderDetail;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

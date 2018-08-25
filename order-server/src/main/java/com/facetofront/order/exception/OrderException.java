@@ -1,6 +1,7 @@
 package com.facetofront.order.exception;
 
-import com.imooc.order.enums.ResultEnum;
+
+import com.facetofront.order.enums.ResultEnum;
 
 /**
  * Created by 廖师兄

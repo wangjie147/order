@@ -1,6 +1,6 @@
 package com.facetofront.order.dto;
 
-import com.imooc.order.dataobject.OrderDetail;
+import com.facetofront.order.dataobject.OrderDetail;
 import lombok.Data;
 
 import java.math.BigDecimal;

@@ -1,6 +1,7 @@
 package com.facetofront.order.utils;
 
-import com.imooc.order.VO.ResultVO;
+
+import com.facetofront.order.VO.ResultVO;
 
 /**
  * Created by 廖师兄

@@ -1,6 +1,6 @@
 package com.facetofront.order.controller;
 
-import com.imooc.order.config.GirlConfig;
+import com.facetofront.order.config.GirlConfig;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
