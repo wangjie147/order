@@ -1,0 +1,20 @@
+
+spring:
+  application:
+    name: order
+    #配置中心的配置
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: CONFIG    #config注册到eureka上面的名字，
+      profile: dev
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8081
+
+
+

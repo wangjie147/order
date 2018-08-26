@@ -57,7 +57,7 @@
             <groupId>com.facetofront</groupId>
             <artifactId>order-common</artifactId>
         </dependency>
-
+        <!--配置中心的依赖-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-config-client</artifactId>
